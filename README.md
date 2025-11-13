@@ -1,0 +1,1 @@
+This repository contain useful python scripts that make my programming life easier. E.g. skript update_all_pip.py is a script that update all packages in pip when you execute the script (current status: pip hast no command like pip update --all or something).
